@@ -10,4 +10,5 @@ printf("%.3lf",a)
 ~~~c++
 cout << fixed << setprecision(3) << a;
 ~~~
-**懂?**
+**懂?**  
+**/n**表示换行
