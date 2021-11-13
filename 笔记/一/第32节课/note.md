@@ -14,3 +14,8 @@ while(n--){
     cin >> a;
 }
 ~~~
+# sortの稳定版本——stable_sort
+## 主要是不容易出bug
+~~~c++
+stable_sort()
+~~~
