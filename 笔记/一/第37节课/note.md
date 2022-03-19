@@ -22,3 +22,28 @@ int main(){
     return 0;
 }
 ~~~
+# 栈のSTL模板
+~~~c++
+#include<bits/stdc++.h>
+using namespace std;
+stack<int>,s;
+int main(){
+    //进栈/压栈
+    s.push(5);
+    s.push(4);
+    s.push(3);
+    //出栈
+    s.pop();
+    s.pop();
+    //栈の大小
+    cout << s.size() << endl;
+    //栈顶元素
+    cout << s.top() << endl;
+    //栈是否空栈
+    s.pop()
+    out << s.empty() << endl;
+~~~
+
+
+    return 0;
+}
