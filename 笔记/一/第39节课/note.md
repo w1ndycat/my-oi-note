@@ -1,7 +1,7 @@
 # 求最大公约数——__gcd(m,n)
 ~~~c++
 #include<bits/stdc++.h>
-using namesace std;
+using namespace std;
 int m,n;
 int main(){
     cin >> m >> n;
