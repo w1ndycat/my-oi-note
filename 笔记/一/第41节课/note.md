@@ -29,9 +29,9 @@ que.push_back(...);
 ~~~
 ## 拔出队尾
 ~~~c++
-que.pop_back(...);
+que.pop_back();
 ~~~
 ## 拔出队首
 ~~~c++
-que.pop_front(...);
+que.pop_front();
 ~~~
