@@ -45,7 +45,7 @@ int main(){
     return 0;
 }
 ~~~
-## 判断质数の方法（要背）
+## 判断质数の方法(即朴素筛)（要背）
 ~~~c++
 bool zhishu(int n){
     if(n<2) return false;
