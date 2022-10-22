@@ -42,8 +42,9 @@ int main(){
     //栈是否空栈
     s.pop()
     out << s.empty() << endl;
+    return 0;
+}
 ~~~
 
 
-    return 0;
-}
+ 
