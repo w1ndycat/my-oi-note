@@ -11,7 +11,7 @@ que.empty();
 ~~~c++
 que.size();
 ~~~
-## （让我！）访问队首元素
+## xxxxxxxxxx pow(16,1.0/2)c++
 ~~~c++
 que.front();
 ~~~
