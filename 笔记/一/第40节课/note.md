@@ -5,7 +5,7 @@ queue<int> que;
 ~~~
 ## 判断队列是否为空
 ~~~c++
-que.empty();
+que.empty();// 输出true是空
 ~~~
 ## 求队列の长度
 ~~~c++
